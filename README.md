@@ -1,2 +1,2 @@
 # Calculator
-An  Android studio project written in java
+An  Android Studio project  written in java
